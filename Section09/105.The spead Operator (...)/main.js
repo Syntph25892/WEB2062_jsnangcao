@@ -78,6 +78,7 @@ console.log(restaurantCopy.name);
 console.log(restaurant.name);
 
 
+
 /*
 ///////////////////////////////////////
 // Destructuring Objects
